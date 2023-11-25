@@ -1,0 +1,1 @@
+export const SLIDER_PAGE = "https://80978e80c284cb9de7ad.cdn6.editmysite.com/uploads/b/80978e80c284cb9de7add67728c516d93dec3b4c6e283ee7d56b213bd738e694/Coffee-machine-pouring-out-a-cappacino-154954416_2124x1413_1614765088.jpeg?width=2400&optimize="

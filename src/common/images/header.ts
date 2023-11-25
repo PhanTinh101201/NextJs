@@ -1,0 +1,1 @@
+export const IMAGES_HEADER = "https://80978e80c284cb9de7ad.cdn6.editmysite.com/uploads/b/80978e80c284cb9de7add67728c516d93dec3b4c6e283ee7d56b213bd738e694/logo_1614852437.png?width=800&optimize=medium"

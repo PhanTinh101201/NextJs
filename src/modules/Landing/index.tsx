@@ -1,9 +1,15 @@
-const Landing = () => {
+import React from "react";
+import Slider from "@/common/components/layout/slider";
+import FeaturedItems from "../ProductFeaturedItems/FeaturedItems";
 
-    return (
-        <div>
-            Landing
-        </div>
-    )
-}
-export default Landing
+const Landing = () => {
+  return (
+    <div>
+      <Slider />
+      <FeaturedItems/>
+    </div>
+  );
+};
+
+Landing.useClient = true;
+export default Landing;
